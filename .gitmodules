@@ -1,3 +1,12 @@
 [submodule "dashboard_i2b"]
 	path = dashboard_i2b
 	url = https://github.com/Arquisoft/dashboard_i2b.git
+[submodule "participants_i2b"]
+	path = participants_i2b
+	url = https://github.com/Arquisoft/participants_i2b.git
+[submodule "participationSystem_i2b"]
+	path = participationSystem_i2b
+	url = https://github.com/Arquisoft/participationSystem_i2b.git
+[submodule "citizensLoader_i2b"]
+	path = citizensLoader_i2b
+	url = https://github.com/Arquisoft/citizensLoader_i2b.git
